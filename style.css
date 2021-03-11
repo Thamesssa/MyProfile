@@ -21,13 +21,13 @@ section {
   justify-content: space-between;
   align-items: center;
   background: rgb(0, 0, 0);
-  background: url(images/face.jpeg);
+  background: url(images/face2.jpg);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
   background-position: right;
   background-color: rgb(0, 0, 0);
-  background-blend-mode: hard-light;
+
   backface-visibility: hidden;
 }
 
@@ -166,7 +166,6 @@ header ul li a {
   height: 75px;
   width: 50px;
   text-align: inherit;
-  
 }
 
 header.sticky {
